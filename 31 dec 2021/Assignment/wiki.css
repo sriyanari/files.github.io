@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    margin-left: 50px;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+table{
+    columns: white;
+}
+td{
+    color: white;
+    padding: 20px;
+}
+p{
+    font-size:medium;
+    color: white;
+}
